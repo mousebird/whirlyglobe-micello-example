@@ -604,6 +604,7 @@
                                       kMaplyVecCenterX :     @(self.centerLonDeg * M_PI / 180.0),
                                       kMaplyVecCenterY :     @(self.centerLatDeg * M_PI / 180.0),
                                       kMaplySelectable :     @(NO),
+                                      kMaplyShader: kMaplyShaderDefaultLineNoBackface
                                       };
         
         NSDictionary *labelsDesc = @{

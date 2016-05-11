@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B3494331CE3A53000E2864B /* bgOrange.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B3494321CE3A53000E2864B /* bgOrange.png */; };
 		E53C84131CC8111300F396E2 /* micelloKey in Resources */ = {isa = PBXBuildFile; fileRef = E53C84121CC8111300F396E2 /* micelloKey */; };
 		E53FBA751CDB09EB0061D062 /* ATM.png in Resources */ = {isa = PBXBuildFile; fileRef = E53FBA691CDB09EB0061D062 /* ATM.png */; };
 		E53FBA761CDB09EB0061D062 /* Bathroom.png in Resources */ = {isa = PBXBuildFile; fileRef = E53FBA6A1CDB09EB0061D062 /* Bathroom.png */; };
@@ -52,6 +53,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B3494321CE3A53000E2864B /* bgOrange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgOrange.png; sourceTree = SOURCE_ROOT; };
 		E53C84121CC8111300F396E2 /* micelloKey */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = micelloKey; sourceTree = "<group>"; };
 		E53FBA691CDB09EB0061D062 /* ATM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ATM.png; path = icons/ATM.png; sourceTree = SOURCE_ROOT; };
 		E53FBA6A1CDB09EB0061D062 /* Bathroom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bathroom.png; path = icons/Bathroom.png; sourceTree = SOURCE_ROOT; };
@@ -174,6 +176,7 @@
 		E59DBB621CBFDA200025B4D6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2B3494321CE3A53000E2864B /* bgOrange.png */,
 				E53FBA671CDB09D70061D062 /* icons */,
 				E53C84121CC8111300F396E2 /* micelloKey */,
 				E56FB5DB1CC1774300F25D47 /* bgBlue.png */,
@@ -268,6 +271,7 @@
 			files = (
 				E53FBA7D1CDB09EB0061D062 /* Mail.png in Resources */,
 				E53FBA771CDB09EB0061D062 /* Bus.png in Resources */,
+				2B3494331CE3A53000E2864B /* bgOrange.png in Resources */,
 				E53FBA7C1CDB09EB0061D062 /* Information.png in Resources */,
 				E53FBA7A1CDB09EB0061D062 /* Elevator.png in Resources */,
 				E59DBB721CBFDA200025B4D6 /* LaunchScreen.storyboard in Resources */,
